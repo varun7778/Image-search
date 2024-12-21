@@ -1,4 +1,4 @@
-# CLIP Image-Text Similarity with PyTorch
+# CLIP Image-Text Similarity
 
 This repository demonstrates the use of OpenAI's CLIP (Contrastive Language-Image Pre-Training) model to compute image-text similarity. It compares an image with a set of predefined text labels and also allows searching for an image that best matches a query.
 
